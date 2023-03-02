@@ -4,7 +4,7 @@
 - 🌱 Estou estudando e me desenvolvendo em ReactJs, TypeScript, NodeJs
 
 <a href="https://github.com/eu-pedro">
-  <img align="center" height="200" width="42%" src="https://github-readme-stats.vercel.app/api?username=eu-pedro&show_icons=true&theme=dracula" />
+  <img align="center" height="280" width="42%" src="https://github-readme-stats.vercel.app/api?username=eu-pedro&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/eu-pedro">
   <img align="center" height="200" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula" />
