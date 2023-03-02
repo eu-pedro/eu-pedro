@@ -4,10 +4,10 @@
 - 🌱 Estou estudando e me desenvolvendo em ReactJs, TypeScript, NodeJs
 
 <a href="https://github.com/eu-pedro">
-  <img align="center" height="250" width="42%" src="https://github-readme-stats.vercel.app/api?username=eu-pedro&show_icons=true&theme=dracula" />
+  <img align="center" width="42%" src="https://github-readme-stats.vercel.app/api?username=eu-pedro&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/eu-pedro">
-  <img align="center" height="200" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula" />
+  <img align="center" height="185" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula" />
 </a>
 
 
@@ -26,7 +26,7 @@
 ##
 
 <div> 
-  <a href = "mailto:pedro.henrike2812@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">     </a>
+  <a href="mailto:pedro.henrike2812@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">     </a>
   <a href="https://www.linkedin.com/in/mepedrohrq/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
