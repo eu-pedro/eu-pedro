@@ -4,7 +4,7 @@
 - 🌱 Focado em desenvolver minhas habilidades e manter meus estudos diários.
 
 <a href="https://github.com/eu-pedro">
-  <img align="center" width="42%" src="https://github-readme-stats.vercel.app/api?username=eu-pedro&show_icons=true&theme=dracula" />
+  <img align="center" height="185" width="42%" src="https://github-readme-stats.vercel.app/api?username=eu-pedro&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/eu-pedro">
   <img align="center" height="185" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula" />
