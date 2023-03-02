@@ -1,7 +1,7 @@
 ### Olá, Eu sou Pedro Henrique 👋
 
-- 🔭 Sou um Desenvolvedor Web FullStack
-- 🌱 Estou estudando e me desenvolvendo em ReactJs, TypeScript, NodeJs
+- 🔭 Sou um Desenvolvedor Web FullStack!
+- 🌱 Focado em desenvolver minhas habilidades e manter meus estudos diários.
 
 <a href="https://github.com/eu-pedro">
   <img align="center" width="42%" src="https://github-readme-stats.vercel.app/api?username=eu-pedro&show_icons=true&theme=dracula" />
