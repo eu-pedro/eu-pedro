@@ -6,7 +6,7 @@
 <a href="https://github.com/eu-pedro/github-readme-stats">
   <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=eu-pedro&show_icons=true&theme=dracula" />
 </a>
-<a href="https://github.com/eu-pedro/convoychat">
+<a href="https://github.com/eu-pedro">
   <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula" />
 </a>
 
